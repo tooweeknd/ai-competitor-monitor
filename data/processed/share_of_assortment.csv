@@ -1,0 +1,890 @@
+week,platform,category,brand,listings,share_pct
+2026-08-10,1mg,Digestive Health,Digene,7,26.9
+2026-08-10,1mg,Digestive Health,Eno,12,46.2
+2026-08-10,1mg,Digestive Health,Gaviscon,7,26.9
+2026-08-10,1mg,Nasal Care,Nasivion,7,100.0
+2026-08-10,1mg,Pain Relief,Combiflam,5,20.8
+2026-08-10,1mg,Pain Relief,Crocin,12,50.0
+2026-08-10,1mg,Pain Relief,Dolo-650,7,29.2
+2026-08-10,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-08-10,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-08-10,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-08-10,Amazon,Digestive Health,Digene,5,20.8
+2026-08-10,Amazon,Digestive Health,Eno,13,54.2
+2026-08-10,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-08-10,Amazon,Nasal Care,Nasivion,7,36.8
+2026-08-10,Amazon,Nasal Care,Otrivin,6,31.6
+2026-08-10,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-08-10,Amazon,Oral Care,Colgate Total,3,15.0
+2026-08-10,Amazon,Oral Care,Pepsodent,7,35.0
+2026-08-10,Amazon,Oral Care,Sensodyne,10,50.0
+2026-08-10,Amazon,Pain Relief,Combiflam,5,22.7
+2026-08-10,Amazon,Pain Relief,Crocin,13,59.1
+2026-08-10,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-08-10,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-08-10,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-08-10,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-08-10,Blinkit,Digestive Health,Digene,6,24.0
+2026-08-10,Blinkit,Digestive Health,Eno,11,44.0
+2026-08-10,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-08-10,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-08-10,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-08-10,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-08-10,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-08-10,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-08-10,Blinkit,Pain Relief,Crocin,13,48.1
+2026-08-10,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-08-10,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-08-10,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-08-10,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-08-10,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-08-10,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-08-10,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-08-10,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-08-10,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-08-10,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-08-10,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-08-10,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-08-10,PharmEasy,Digestive Health,Digene,7,26.9
+2026-08-10,PharmEasy,Digestive Health,Eno,13,50.0
+2026-08-10,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-08-10,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-08-10,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-08-10,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-08-10,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-08-10,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-08-10,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-08-10,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-08-10,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-08-10,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-08-10,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-08-10,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-08-10,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-08-10,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-08-10,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-08-10,Zepto,Digestive Health,Digene,6,20.7
+2026-08-10,Zepto,Digestive Health,Eno,16,55.2
+2026-08-10,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-08-10,Zepto,Nasal Care,Nasivion,7,53.8
+2026-08-10,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-08-10,Zepto,Oral Care,Colgate Total,5,26.3
+2026-08-10,Zepto,Oral Care,Pepsodent,6,31.6
+2026-08-10,Zepto,Oral Care,Sensodyne,8,42.1
+2026-08-10,Zepto,Pain Relief,Combiflam,7,38.9
+2026-08-10,Zepto,Pain Relief,Crocin,6,33.3
+2026-08-10,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-08-17,1mg,Digestive Health,Digene,7,26.9
+2026-08-17,1mg,Digestive Health,Eno,12,46.2
+2026-08-17,1mg,Digestive Health,Gaviscon,7,26.9
+2026-08-17,1mg,Nasal Care,Nasivion,7,100.0
+2026-08-17,1mg,Pain Relief,Combiflam,5,20.8
+2026-08-17,1mg,Pain Relief,Crocin,12,50.0
+2026-08-17,1mg,Pain Relief,Dolo-650,7,29.2
+2026-08-17,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-08-17,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-08-17,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-08-17,Amazon,Digestive Health,Digene,5,20.8
+2026-08-17,Amazon,Digestive Health,Eno,13,54.2
+2026-08-17,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-08-17,Amazon,Nasal Care,Nasivion,7,36.8
+2026-08-17,Amazon,Nasal Care,Otrivin,6,31.6
+2026-08-17,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-08-17,Amazon,Oral Care,Colgate Total,3,15.0
+2026-08-17,Amazon,Oral Care,Pepsodent,7,35.0
+2026-08-17,Amazon,Oral Care,Sensodyne,10,50.0
+2026-08-17,Amazon,Pain Relief,Combiflam,5,22.7
+2026-08-17,Amazon,Pain Relief,Crocin,13,59.1
+2026-08-17,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-08-17,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-08-17,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-08-17,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-08-17,Blinkit,Digestive Health,Digene,6,24.0
+2026-08-17,Blinkit,Digestive Health,Eno,11,44.0
+2026-08-17,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-08-17,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-08-17,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-08-17,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-08-17,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-08-17,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-08-17,Blinkit,Pain Relief,Crocin,13,48.1
+2026-08-17,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-08-17,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-08-17,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-08-17,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-08-17,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-08-17,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-08-17,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-08-17,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-08-17,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-08-17,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-08-17,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-08-17,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-08-17,PharmEasy,Digestive Health,Digene,7,26.9
+2026-08-17,PharmEasy,Digestive Health,Eno,13,50.0
+2026-08-17,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-08-17,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-08-17,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-08-17,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-08-17,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-08-17,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-08-17,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-08-17,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-08-17,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-08-17,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-08-17,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-08-17,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-08-17,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-08-17,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-08-17,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-08-17,Zepto,Digestive Health,Digene,6,20.7
+2026-08-17,Zepto,Digestive Health,Eno,16,55.2
+2026-08-17,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-08-17,Zepto,Nasal Care,Nasivion,7,53.8
+2026-08-17,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-08-17,Zepto,Oral Care,Colgate Total,5,26.3
+2026-08-17,Zepto,Oral Care,Pepsodent,6,31.6
+2026-08-17,Zepto,Oral Care,Sensodyne,8,42.1
+2026-08-17,Zepto,Pain Relief,Combiflam,7,38.9
+2026-08-17,Zepto,Pain Relief,Crocin,6,33.3
+2026-08-17,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-08-24,1mg,Digestive Health,Digene,7,26.9
+2026-08-24,1mg,Digestive Health,Eno,12,46.2
+2026-08-24,1mg,Digestive Health,Gaviscon,7,26.9
+2026-08-24,1mg,Nasal Care,Nasivion,7,100.0
+2026-08-24,1mg,Pain Relief,Combiflam,5,20.8
+2026-08-24,1mg,Pain Relief,Crocin,12,50.0
+2026-08-24,1mg,Pain Relief,Dolo-650,7,29.2
+2026-08-24,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-08-24,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-08-24,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-08-24,Amazon,Digestive Health,Digene,5,20.8
+2026-08-24,Amazon,Digestive Health,Eno,13,54.2
+2026-08-24,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-08-24,Amazon,Nasal Care,Nasivion,7,36.8
+2026-08-24,Amazon,Nasal Care,Otrivin,6,31.6
+2026-08-24,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-08-24,Amazon,Oral Care,Colgate Total,3,15.0
+2026-08-24,Amazon,Oral Care,Pepsodent,7,35.0
+2026-08-24,Amazon,Oral Care,Sensodyne,10,50.0
+2026-08-24,Amazon,Pain Relief,Combiflam,5,22.7
+2026-08-24,Amazon,Pain Relief,Crocin,13,59.1
+2026-08-24,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-08-24,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-08-24,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-08-24,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-08-24,Blinkit,Digestive Health,Digene,6,24.0
+2026-08-24,Blinkit,Digestive Health,Eno,11,44.0
+2026-08-24,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-08-24,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-08-24,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-08-24,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-08-24,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-08-24,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-08-24,Blinkit,Pain Relief,Crocin,13,48.1
+2026-08-24,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-08-24,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-08-24,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-08-24,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-08-24,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-08-24,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-08-24,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-08-24,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-08-24,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-08-24,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-08-24,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-08-24,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-08-24,PharmEasy,Digestive Health,Digene,7,26.9
+2026-08-24,PharmEasy,Digestive Health,Eno,13,50.0
+2026-08-24,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-08-24,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-08-24,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-08-24,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-08-24,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-08-24,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-08-24,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-08-24,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-08-24,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-08-24,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-08-24,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-08-24,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-08-24,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-08-24,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-08-24,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-08-24,Zepto,Digestive Health,Digene,6,20.7
+2026-08-24,Zepto,Digestive Health,Eno,16,55.2
+2026-08-24,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-08-24,Zepto,Nasal Care,Nasivion,7,53.8
+2026-08-24,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-08-24,Zepto,Oral Care,Colgate Total,5,26.3
+2026-08-24,Zepto,Oral Care,Pepsodent,6,31.6
+2026-08-24,Zepto,Oral Care,Sensodyne,8,42.1
+2026-08-24,Zepto,Pain Relief,Combiflam,7,38.9
+2026-08-24,Zepto,Pain Relief,Crocin,6,33.3
+2026-08-24,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-08-31,1mg,Digestive Health,Digene,7,26.9
+2026-08-31,1mg,Digestive Health,Eno,12,46.2
+2026-08-31,1mg,Digestive Health,Gaviscon,7,26.9
+2026-08-31,1mg,Nasal Care,Nasivion,7,100.0
+2026-08-31,1mg,Pain Relief,Combiflam,5,20.8
+2026-08-31,1mg,Pain Relief,Crocin,12,50.0
+2026-08-31,1mg,Pain Relief,Dolo-650,7,29.2
+2026-08-31,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-08-31,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-08-31,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-08-31,Amazon,Digestive Health,Digene,5,20.8
+2026-08-31,Amazon,Digestive Health,Eno,13,54.2
+2026-08-31,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-08-31,Amazon,Nasal Care,Nasivion,7,36.8
+2026-08-31,Amazon,Nasal Care,Otrivin,6,31.6
+2026-08-31,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-08-31,Amazon,Oral Care,Colgate Total,3,15.0
+2026-08-31,Amazon,Oral Care,Pepsodent,7,35.0
+2026-08-31,Amazon,Oral Care,Sensodyne,10,50.0
+2026-08-31,Amazon,Pain Relief,Combiflam,5,22.7
+2026-08-31,Amazon,Pain Relief,Crocin,13,59.1
+2026-08-31,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-08-31,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-08-31,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-08-31,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-08-31,Blinkit,Digestive Health,Digene,6,24.0
+2026-08-31,Blinkit,Digestive Health,Eno,11,44.0
+2026-08-31,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-08-31,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-08-31,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-08-31,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-08-31,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-08-31,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-08-31,Blinkit,Pain Relief,Crocin,13,48.1
+2026-08-31,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-08-31,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-08-31,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-08-31,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-08-31,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-08-31,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-08-31,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-08-31,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-08-31,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-08-31,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-08-31,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-08-31,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-08-31,PharmEasy,Digestive Health,Digene,7,26.9
+2026-08-31,PharmEasy,Digestive Health,Eno,13,50.0
+2026-08-31,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-08-31,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-08-31,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-08-31,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-08-31,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-08-31,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-08-31,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-08-31,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-08-31,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-08-31,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-08-31,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-08-31,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-08-31,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-08-31,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-08-31,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-08-31,Zepto,Digestive Health,Digene,6,20.7
+2026-08-31,Zepto,Digestive Health,Eno,16,55.2
+2026-08-31,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-08-31,Zepto,Nasal Care,Nasivion,7,53.8
+2026-08-31,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-08-31,Zepto,Oral Care,Colgate Total,5,26.3
+2026-08-31,Zepto,Oral Care,Pepsodent,6,31.6
+2026-08-31,Zepto,Oral Care,Sensodyne,8,42.1
+2026-08-31,Zepto,Pain Relief,Combiflam,7,38.9
+2026-08-31,Zepto,Pain Relief,Crocin,6,33.3
+2026-08-31,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-09-07,1mg,Digestive Health,Digene,7,26.9
+2026-09-07,1mg,Digestive Health,Eno,12,46.2
+2026-09-07,1mg,Digestive Health,Gaviscon,7,26.9
+2026-09-07,1mg,Nasal Care,Nasivion,7,100.0
+2026-09-07,1mg,Pain Relief,Combiflam,5,20.8
+2026-09-07,1mg,Pain Relief,Crocin,12,50.0
+2026-09-07,1mg,Pain Relief,Dolo-650,7,29.2
+2026-09-07,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-09-07,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-09-07,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-09-07,Amazon,Digestive Health,Digene,5,20.8
+2026-09-07,Amazon,Digestive Health,Eno,13,54.2
+2026-09-07,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-09-07,Amazon,Nasal Care,Nasivion,7,36.8
+2026-09-07,Amazon,Nasal Care,Otrivin,6,31.6
+2026-09-07,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-09-07,Amazon,Oral Care,Colgate Total,3,15.0
+2026-09-07,Amazon,Oral Care,Pepsodent,7,35.0
+2026-09-07,Amazon,Oral Care,Sensodyne,10,50.0
+2026-09-07,Amazon,Pain Relief,Combiflam,5,22.7
+2026-09-07,Amazon,Pain Relief,Crocin,13,59.1
+2026-09-07,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-09-07,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-09-07,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-09-07,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-09-07,Blinkit,Digestive Health,Digene,6,24.0
+2026-09-07,Blinkit,Digestive Health,Eno,11,44.0
+2026-09-07,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-09-07,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-09-07,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-09-07,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-09-07,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-09-07,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-09-07,Blinkit,Pain Relief,Crocin,13,48.1
+2026-09-07,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-09-07,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-09-07,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-09-07,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-09-07,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-09-07,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-09-07,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-09-07,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-09-07,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-09-07,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-09-07,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-09-07,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-09-07,PharmEasy,Digestive Health,Digene,7,26.9
+2026-09-07,PharmEasy,Digestive Health,Eno,13,50.0
+2026-09-07,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-09-07,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-09-07,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-09-07,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-09-07,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-09-07,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-09-07,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-09-07,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-09-07,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-09-07,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-09-07,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-09-07,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-09-07,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-09-07,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-09-07,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-09-07,Zepto,Digestive Health,Digene,6,20.7
+2026-09-07,Zepto,Digestive Health,Eno,16,55.2
+2026-09-07,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-09-07,Zepto,Nasal Care,Nasivion,7,53.8
+2026-09-07,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-09-07,Zepto,Oral Care,Colgate Total,5,26.3
+2026-09-07,Zepto,Oral Care,Pepsodent,6,31.6
+2026-09-07,Zepto,Oral Care,Sensodyne,8,42.1
+2026-09-07,Zepto,Pain Relief,Combiflam,7,38.9
+2026-09-07,Zepto,Pain Relief,Crocin,6,33.3
+2026-09-07,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-09-14,1mg,Digestive Health,Digene,7,26.9
+2026-09-14,1mg,Digestive Health,Eno,12,46.2
+2026-09-14,1mg,Digestive Health,Gaviscon,7,26.9
+2026-09-14,1mg,Nasal Care,Nasivion,7,100.0
+2026-09-14,1mg,Pain Relief,Combiflam,5,20.8
+2026-09-14,1mg,Pain Relief,Crocin,12,50.0
+2026-09-14,1mg,Pain Relief,Dolo-650,7,29.2
+2026-09-14,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-09-14,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-09-14,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-09-14,Amazon,Digestive Health,Digene,5,20.8
+2026-09-14,Amazon,Digestive Health,Eno,13,54.2
+2026-09-14,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-09-14,Amazon,Nasal Care,Nasivion,7,36.8
+2026-09-14,Amazon,Nasal Care,Otrivin,6,31.6
+2026-09-14,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-09-14,Amazon,Oral Care,Colgate Total,3,15.0
+2026-09-14,Amazon,Oral Care,Pepsodent,7,35.0
+2026-09-14,Amazon,Oral Care,Sensodyne,10,50.0
+2026-09-14,Amazon,Pain Relief,Combiflam,5,22.7
+2026-09-14,Amazon,Pain Relief,Crocin,13,59.1
+2026-09-14,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-09-14,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-09-14,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-09-14,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-09-14,Blinkit,Digestive Health,Digene,6,24.0
+2026-09-14,Blinkit,Digestive Health,Eno,11,44.0
+2026-09-14,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-09-14,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-09-14,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-09-14,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-09-14,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-09-14,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-09-14,Blinkit,Pain Relief,Crocin,13,48.1
+2026-09-14,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-09-14,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-09-14,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-09-14,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-09-14,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-09-14,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-09-14,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-09-14,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-09-14,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-09-14,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-09-14,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-09-14,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-09-14,PharmEasy,Digestive Health,Digene,7,26.9
+2026-09-14,PharmEasy,Digestive Health,Eno,13,50.0
+2026-09-14,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-09-14,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-09-14,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-09-14,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-09-14,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-09-14,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-09-14,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-09-14,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-09-14,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-09-14,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-09-14,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-09-14,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-09-14,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-09-14,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-09-14,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-09-14,Zepto,Digestive Health,Digene,6,20.7
+2026-09-14,Zepto,Digestive Health,Eno,16,55.2
+2026-09-14,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-09-14,Zepto,Nasal Care,Nasivion,7,53.8
+2026-09-14,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-09-14,Zepto,Oral Care,Colgate Total,5,26.3
+2026-09-14,Zepto,Oral Care,Pepsodent,6,31.6
+2026-09-14,Zepto,Oral Care,Sensodyne,8,42.1
+2026-09-14,Zepto,Pain Relief,Combiflam,7,38.9
+2026-09-14,Zepto,Pain Relief,Crocin,6,33.3
+2026-09-14,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-09-21,1mg,Digestive Health,Digene,7,26.9
+2026-09-21,1mg,Digestive Health,Eno,12,46.2
+2026-09-21,1mg,Digestive Health,Gaviscon,7,26.9
+2026-09-21,1mg,Nasal Care,Nasivion,7,100.0
+2026-09-21,1mg,Pain Relief,Combiflam,5,20.8
+2026-09-21,1mg,Pain Relief,Crocin,12,50.0
+2026-09-21,1mg,Pain Relief,Dolo-650,7,29.2
+2026-09-21,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-09-21,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-09-21,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-09-21,Amazon,Digestive Health,Digene,5,20.8
+2026-09-21,Amazon,Digestive Health,Eno,13,54.2
+2026-09-21,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-09-21,Amazon,Nasal Care,Nasivion,7,36.8
+2026-09-21,Amazon,Nasal Care,Otrivin,6,31.6
+2026-09-21,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-09-21,Amazon,Oral Care,Colgate Total,3,15.0
+2026-09-21,Amazon,Oral Care,Pepsodent,7,35.0
+2026-09-21,Amazon,Oral Care,Sensodyne,10,50.0
+2026-09-21,Amazon,Pain Relief,Combiflam,5,22.7
+2026-09-21,Amazon,Pain Relief,Crocin,13,59.1
+2026-09-21,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-09-21,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-09-21,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-09-21,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-09-21,Blinkit,Digestive Health,Digene,6,24.0
+2026-09-21,Blinkit,Digestive Health,Eno,11,44.0
+2026-09-21,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-09-21,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-09-21,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-09-21,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-09-21,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-09-21,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-09-21,Blinkit,Pain Relief,Crocin,13,48.1
+2026-09-21,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-09-21,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-09-21,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-09-21,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-09-21,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-09-21,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-09-21,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-09-21,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-09-21,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-09-21,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-09-21,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-09-21,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-09-21,PharmEasy,Digestive Health,Digene,7,26.9
+2026-09-21,PharmEasy,Digestive Health,Eno,13,50.0
+2026-09-21,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-09-21,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-09-21,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-09-21,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-09-21,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-09-21,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-09-21,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-09-21,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-09-21,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-09-21,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-09-21,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-09-21,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-09-21,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-09-21,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-09-21,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-09-21,Zepto,Digestive Health,Digene,6,20.7
+2026-09-21,Zepto,Digestive Health,Eno,16,55.2
+2026-09-21,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-09-21,Zepto,Nasal Care,Nasivion,7,53.8
+2026-09-21,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-09-21,Zepto,Oral Care,Colgate Total,5,26.3
+2026-09-21,Zepto,Oral Care,Pepsodent,6,31.6
+2026-09-21,Zepto,Oral Care,Sensodyne,8,42.1
+2026-09-21,Zepto,Pain Relief,Combiflam,7,38.9
+2026-09-21,Zepto,Pain Relief,Crocin,6,33.3
+2026-09-21,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-09-28,1mg,Digestive Health,Digene,7,26.9
+2026-09-28,1mg,Digestive Health,Eno,12,46.2
+2026-09-28,1mg,Digestive Health,Gaviscon,7,26.9
+2026-09-28,1mg,Nasal Care,Nasivion,7,100.0
+2026-09-28,1mg,Pain Relief,Combiflam,5,20.8
+2026-09-28,1mg,Pain Relief,Crocin,12,50.0
+2026-09-28,1mg,Pain Relief,Dolo-650,7,29.2
+2026-09-28,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-09-28,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-09-28,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-09-28,Amazon,Digestive Health,Digene,5,20.8
+2026-09-28,Amazon,Digestive Health,Eno,13,54.2
+2026-09-28,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-09-28,Amazon,Nasal Care,Nasivion,7,36.8
+2026-09-28,Amazon,Nasal Care,Otrivin,6,31.6
+2026-09-28,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-09-28,Amazon,Oral Care,Colgate Total,3,15.0
+2026-09-28,Amazon,Oral Care,Pepsodent,7,35.0
+2026-09-28,Amazon,Oral Care,Sensodyne,10,50.0
+2026-09-28,Amazon,Pain Relief,Combiflam,5,22.7
+2026-09-28,Amazon,Pain Relief,Crocin,13,59.1
+2026-09-28,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-09-28,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-09-28,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-09-28,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-09-28,Blinkit,Digestive Health,Digene,6,24.0
+2026-09-28,Blinkit,Digestive Health,Eno,11,44.0
+2026-09-28,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-09-28,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-09-28,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-09-28,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-09-28,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-09-28,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-09-28,Blinkit,Pain Relief,Crocin,13,48.1
+2026-09-28,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-09-28,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-09-28,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-09-28,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-09-28,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-09-28,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-09-28,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-09-28,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-09-28,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-09-28,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-09-28,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-09-28,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-09-28,PharmEasy,Digestive Health,Digene,7,26.9
+2026-09-28,PharmEasy,Digestive Health,Eno,13,50.0
+2026-09-28,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-09-28,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-09-28,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-09-28,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-09-28,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-09-28,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-09-28,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-09-28,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-09-28,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-09-28,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-09-28,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-09-28,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-09-28,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-09-28,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-09-28,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-09-28,Zepto,Digestive Health,Digene,6,20.7
+2026-09-28,Zepto,Digestive Health,Eno,16,55.2
+2026-09-28,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-09-28,Zepto,Nasal Care,Nasivion,7,53.8
+2026-09-28,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-09-28,Zepto,Oral Care,Colgate Total,5,26.3
+2026-09-28,Zepto,Oral Care,Pepsodent,6,31.6
+2026-09-28,Zepto,Oral Care,Sensodyne,8,42.1
+2026-09-28,Zepto,Pain Relief,Combiflam,7,38.9
+2026-09-28,Zepto,Pain Relief,Crocin,6,33.3
+2026-09-28,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-10-05,1mg,Digestive Health,Digene,7,26.9
+2026-10-05,1mg,Digestive Health,Eno,12,46.2
+2026-10-05,1mg,Digestive Health,Gaviscon,7,26.9
+2026-10-05,1mg,Nasal Care,Nasivion,7,100.0
+2026-10-05,1mg,Pain Relief,Combiflam,5,20.8
+2026-10-05,1mg,Pain Relief,Crocin,12,50.0
+2026-10-05,1mg,Pain Relief,Dolo-650,7,29.2
+2026-10-05,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-10-05,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-10-05,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-10-05,Amazon,Digestive Health,Digene,5,20.8
+2026-10-05,Amazon,Digestive Health,Eno,13,54.2
+2026-10-05,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-10-05,Amazon,Nasal Care,Nasivion,7,36.8
+2026-10-05,Amazon,Nasal Care,Otrivin,6,31.6
+2026-10-05,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-10-05,Amazon,Oral Care,Colgate Total,3,15.0
+2026-10-05,Amazon,Oral Care,Pepsodent,7,35.0
+2026-10-05,Amazon,Oral Care,Sensodyne,10,50.0
+2026-10-05,Amazon,Pain Relief,Combiflam,5,22.7
+2026-10-05,Amazon,Pain Relief,Crocin,13,59.1
+2026-10-05,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-10-05,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-10-05,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-10-05,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-10-05,Blinkit,Digestive Health,Digene,6,24.0
+2026-10-05,Blinkit,Digestive Health,Eno,11,44.0
+2026-10-05,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-10-05,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-10-05,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-10-05,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-10-05,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-10-05,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-10-05,Blinkit,Pain Relief,Crocin,13,48.1
+2026-10-05,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-10-05,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-10-05,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-10-05,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-10-05,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-10-05,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-10-05,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-10-05,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-10-05,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-10-05,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-10-05,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-10-05,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-10-05,PharmEasy,Digestive Health,Digene,7,26.9
+2026-10-05,PharmEasy,Digestive Health,Eno,13,50.0
+2026-10-05,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-10-05,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-10-05,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-10-05,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-10-05,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-10-05,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-10-05,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-10-05,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-10-05,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-10-05,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-10-05,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-10-05,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-10-05,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-10-05,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-10-05,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-10-05,Zepto,Digestive Health,Digene,6,20.7
+2026-10-05,Zepto,Digestive Health,Eno,16,55.2
+2026-10-05,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-10-05,Zepto,Nasal Care,Nasivion,7,53.8
+2026-10-05,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-10-05,Zepto,Oral Care,Colgate Total,5,26.3
+2026-10-05,Zepto,Oral Care,Pepsodent,6,31.6
+2026-10-05,Zepto,Oral Care,Sensodyne,8,42.1
+2026-10-05,Zepto,Pain Relief,Combiflam,7,38.9
+2026-10-05,Zepto,Pain Relief,Crocin,6,33.3
+2026-10-05,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-10-12,1mg,Digestive Health,Digene,7,26.9
+2026-10-12,1mg,Digestive Health,Eno,12,46.2
+2026-10-12,1mg,Digestive Health,Gaviscon,7,26.9
+2026-10-12,1mg,Nasal Care,Nasivion,7,100.0
+2026-10-12,1mg,Pain Relief,Combiflam,5,20.8
+2026-10-12,1mg,Pain Relief,Crocin,12,50.0
+2026-10-12,1mg,Pain Relief,Dolo-650,7,29.2
+2026-10-12,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-10-12,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-10-12,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-10-12,Amazon,Digestive Health,Digene,5,20.8
+2026-10-12,Amazon,Digestive Health,Eno,13,54.2
+2026-10-12,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-10-12,Amazon,Nasal Care,Nasivion,7,36.8
+2026-10-12,Amazon,Nasal Care,Otrivin,6,31.6
+2026-10-12,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-10-12,Amazon,Oral Care,Colgate Total,3,15.0
+2026-10-12,Amazon,Oral Care,Pepsodent,7,35.0
+2026-10-12,Amazon,Oral Care,Sensodyne,10,50.0
+2026-10-12,Amazon,Pain Relief,Combiflam,5,22.7
+2026-10-12,Amazon,Pain Relief,Crocin,13,59.1
+2026-10-12,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-10-12,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-10-12,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-10-12,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-10-12,Blinkit,Digestive Health,Digene,6,24.0
+2026-10-12,Blinkit,Digestive Health,Eno,11,44.0
+2026-10-12,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-10-12,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-10-12,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-10-12,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-10-12,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-10-12,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-10-12,Blinkit,Pain Relief,Crocin,13,48.1
+2026-10-12,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-10-12,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-10-12,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-10-12,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-10-12,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-10-12,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-10-12,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-10-12,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-10-12,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-10-12,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-10-12,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-10-12,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-10-12,PharmEasy,Digestive Health,Digene,7,26.9
+2026-10-12,PharmEasy,Digestive Health,Eno,13,50.0
+2026-10-12,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-10-12,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-10-12,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-10-12,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-10-12,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-10-12,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-10-12,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-10-12,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-10-12,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-10-12,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-10-12,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-10-12,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-10-12,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-10-12,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-10-12,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-10-12,Zepto,Digestive Health,Digene,6,20.7
+2026-10-12,Zepto,Digestive Health,Eno,16,55.2
+2026-10-12,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-10-12,Zepto,Nasal Care,Nasivion,7,53.8
+2026-10-12,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-10-12,Zepto,Oral Care,Colgate Total,5,26.3
+2026-10-12,Zepto,Oral Care,Pepsodent,6,31.6
+2026-10-12,Zepto,Oral Care,Sensodyne,8,42.1
+2026-10-12,Zepto,Pain Relief,Combiflam,7,38.9
+2026-10-12,Zepto,Pain Relief,Crocin,6,33.3
+2026-10-12,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-10-19,1mg,Digestive Health,Digene,7,26.9
+2026-10-19,1mg,Digestive Health,Eno,12,46.2
+2026-10-19,1mg,Digestive Health,Gaviscon,7,26.9
+2026-10-19,1mg,Nasal Care,Nasivion,7,100.0
+2026-10-19,1mg,Pain Relief,Combiflam,5,20.8
+2026-10-19,1mg,Pain Relief,Crocin,12,50.0
+2026-10-19,1mg,Pain Relief,Dolo-650,7,29.2
+2026-10-19,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-10-19,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-10-19,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-10-19,Amazon,Digestive Health,Digene,5,20.8
+2026-10-19,Amazon,Digestive Health,Eno,13,54.2
+2026-10-19,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-10-19,Amazon,Nasal Care,Nasivion,7,36.8
+2026-10-19,Amazon,Nasal Care,Otrivin,6,31.6
+2026-10-19,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-10-19,Amazon,Oral Care,Colgate Total,3,15.0
+2026-10-19,Amazon,Oral Care,Pepsodent,7,35.0
+2026-10-19,Amazon,Oral Care,Sensodyne,10,50.0
+2026-10-19,Amazon,Pain Relief,Combiflam,5,22.7
+2026-10-19,Amazon,Pain Relief,Crocin,13,59.1
+2026-10-19,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-10-19,Amazon,Vitamins & Supplements,Centrum,5,25.0
+2026-10-19,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,40.0
+2026-10-19,Amazon,Vitamins & Supplements,Supradyn,7,35.0
+2026-10-19,Blinkit,Digestive Health,Digene,6,24.0
+2026-10-19,Blinkit,Digestive Health,Eno,11,44.0
+2026-10-19,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-10-19,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-10-19,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-10-19,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-10-19,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-10-19,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-10-19,Blinkit,Pain Relief,Crocin,13,48.1
+2026-10-19,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-10-19,Blinkit,Vitamins & Supplements,Centrum,13,68.4
+2026-10-19,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,31.6
+2026-10-19,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-10-19,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-10-19,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-10-19,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-10-19,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-10-19,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-10-19,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-10-19,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-10-19,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-10-19,PharmEasy,Digestive Health,Digene,7,26.9
+2026-10-19,PharmEasy,Digestive Health,Eno,13,50.0
+2026-10-19,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-10-19,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-10-19,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-10-19,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-10-19,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-10-19,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-10-19,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-10-19,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-10-19,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-10-19,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-10-19,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-10-19,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-10-19,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-10-19,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-10-19,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-10-19,Zepto,Digestive Health,Digene,6,20.7
+2026-10-19,Zepto,Digestive Health,Eno,16,55.2
+2026-10-19,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-10-19,Zepto,Nasal Care,Nasivion,7,53.8
+2026-10-19,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-10-19,Zepto,Oral Care,Colgate Total,5,26.3
+2026-10-19,Zepto,Oral Care,Pepsodent,6,31.6
+2026-10-19,Zepto,Oral Care,Sensodyne,8,42.1
+2026-10-19,Zepto,Pain Relief,Combiflam,7,38.9
+2026-10-19,Zepto,Pain Relief,Crocin,6,33.3
+2026-10-19,Zepto,Pain Relief,Dolo-650,5,27.8
+2026-10-26,1mg,Digestive Health,Digene,7,26.9
+2026-10-26,1mg,Digestive Health,Eno,12,46.2
+2026-10-26,1mg,Digestive Health,Gaviscon,7,26.9
+2026-10-26,1mg,Nasal Care,Nasivion,7,100.0
+2026-10-26,1mg,Pain Relief,Combiflam,5,20.8
+2026-10-26,1mg,Pain Relief,Crocin,12,50.0
+2026-10-26,1mg,Pain Relief,Dolo-650,7,29.2
+2026-10-26,1mg,Vitamins & Supplements,Centrum,6,46.2
+2026-10-26,1mg,Vitamins & Supplements,HealthKart HK Vitals,5,38.5
+2026-10-26,1mg,Vitamins & Supplements,Supradyn,2,15.4
+2026-10-26,Amazon,Digestive Health,Digene,5,20.8
+2026-10-26,Amazon,Digestive Health,Eno,13,54.2
+2026-10-26,Amazon,Digestive Health,Gaviscon,6,25.0
+2026-10-26,Amazon,Nasal Care,Nasivion,7,36.8
+2026-10-26,Amazon,Nasal Care,Otrivin,6,31.6
+2026-10-26,Amazon,Nasal Care,Vicks VapoInhaler,6,31.6
+2026-10-26,Amazon,Oral Care,Colgate Total,3,15.0
+2026-10-26,Amazon,Oral Care,Pepsodent,7,35.0
+2026-10-26,Amazon,Oral Care,Sensodyne,10,50.0
+2026-10-26,Amazon,Pain Relief,Combiflam,5,22.7
+2026-10-26,Amazon,Pain Relief,Crocin,13,59.1
+2026-10-26,Amazon,Pain Relief,Dolo-650,4,18.2
+2026-10-26,Amazon,Vitamins & Supplements,Centrum,12,44.4
+2026-10-26,Amazon,Vitamins & Supplements,HealthKart HK Vitals,8,29.6
+2026-10-26,Amazon,Vitamins & Supplements,Supradyn,7,25.9
+2026-10-26,Blinkit,Digestive Health,Digene,6,24.0
+2026-10-26,Blinkit,Digestive Health,Eno,11,44.0
+2026-10-26,Blinkit,Digestive Health,Gaviscon,8,32.0
+2026-10-26,Blinkit,Nasal Care,Nasivion,5,29.4
+2026-10-26,Blinkit,Nasal Care,Otrivin,7,41.2
+2026-10-26,Blinkit,Nasal Care,Vicks VapoInhaler,5,29.4
+2026-10-26,Blinkit,Oral Care,Sensodyne,9,100.0
+2026-10-26,Blinkit,Pain Relief,Combiflam,6,22.2
+2026-10-26,Blinkit,Pain Relief,Crocin,13,48.1
+2026-10-26,Blinkit,Pain Relief,Dolo-650,8,29.6
+2026-10-26,Blinkit,Vitamins & Supplements,Centrum,13,54.2
+2026-10-26,Blinkit,Vitamins & Supplements,HealthKart HK Vitals,6,25.0
+2026-10-26,Blinkit,Vitamins & Supplements,Supradyn,5,20.8
+2026-10-26,Flipkart Minutes,Digestive Health,Digene,5,21.7
+2026-10-26,Flipkart Minutes,Digestive Health,Eno,14,60.9
+2026-10-26,Flipkart Minutes,Digestive Health,Gaviscon,4,17.4
+2026-10-26,Flipkart Minutes,Oral Care,Colgate Total,7,41.2
+2026-10-26,Flipkart Minutes,Oral Care,Pepsodent,4,23.5
+2026-10-26,Flipkart Minutes,Oral Care,Sensodyne,6,35.3
+2026-10-26,Flipkart Minutes,Vitamins & Supplements,Centrum,13,52.0
+2026-10-26,Flipkart Minutes,Vitamins & Supplements,HealthKart HK Vitals,5,20.0
+2026-10-26,Flipkart Minutes,Vitamins & Supplements,Supradyn,7,28.0
+2026-10-26,PharmEasy,Digestive Health,Digene,7,26.9
+2026-10-26,PharmEasy,Digestive Health,Eno,13,50.0
+2026-10-26,PharmEasy,Digestive Health,Gaviscon,6,23.1
+2026-10-26,PharmEasy,Nasal Care,Otrivin,7,58.3
+2026-10-26,PharmEasy,Nasal Care,Vicks VapoInhaler,5,41.7
+2026-10-26,PharmEasy,Pain Relief,Combiflam,6,33.3
+2026-10-26,PharmEasy,Pain Relief,Crocin,12,66.7
+2026-10-26,PharmEasy,Vitamins & Supplements,Centrum,7,35.0
+2026-10-26,PharmEasy,Vitamins & Supplements,HealthKart HK Vitals,7,35.0
+2026-10-26,PharmEasy,Vitamins & Supplements,Supradyn,6,30.0
+2026-10-26,Swiggy Instamart,Digestive Health,Digene,7,41.2
+2026-10-26,Swiggy Instamart,Digestive Health,Eno,6,35.3
+2026-10-26,Swiggy Instamart,Digestive Health,Gaviscon,4,23.5
+2026-10-26,Swiggy Instamart,Oral Care,Pepsodent,5,29.4
+2026-10-26,Swiggy Instamart,Oral Care,Sensodyne,12,70.6
+2026-10-26,Swiggy Instamart,Pain Relief,Crocin,12,63.2
+2026-10-26,Swiggy Instamart,Pain Relief,Dolo-650,7,36.8
+2026-10-26,Zepto,Digestive Health,Digene,6,20.7
+2026-10-26,Zepto,Digestive Health,Eno,16,55.2
+2026-10-26,Zepto,Digestive Health,Gaviscon,7,24.1
+2026-10-26,Zepto,Nasal Care,Nasivion,7,53.8
+2026-10-26,Zepto,Nasal Care,Vicks VapoInhaler,6,46.2
+2026-10-26,Zepto,Oral Care,Colgate Total,5,26.3
+2026-10-26,Zepto,Oral Care,Pepsodent,6,31.6
+2026-10-26,Zepto,Oral Care,Sensodyne,8,42.1
+2026-10-26,Zepto,Pain Relief,Combiflam,7,38.9
+2026-10-26,Zepto,Pain Relief,Crocin,6,33.3
+2026-10-26,Zepto,Pain Relief,Dolo-650,5,27.8

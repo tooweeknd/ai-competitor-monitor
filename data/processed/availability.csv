@@ -1,0 +1,337 @@
+week,platform,category,availability_pct
+2026-08-10,1mg,Digestive Health,96.2
+2026-08-10,1mg,Nasal Care,100.0
+2026-08-10,1mg,Pain Relief,95.8
+2026-08-10,1mg,Vitamins & Supplements,100.0
+2026-08-10,Amazon,Digestive Health,100.0
+2026-08-10,Amazon,Nasal Care,100.0
+2026-08-10,Amazon,Oral Care,100.0
+2026-08-10,Amazon,Pain Relief,100.0
+2026-08-10,Amazon,Vitamins & Supplements,100.0
+2026-08-10,Blinkit,Digestive Health,96.0
+2026-08-10,Blinkit,Nasal Care,94.1
+2026-08-10,Blinkit,Oral Care,88.9
+2026-08-10,Blinkit,Pain Relief,100.0
+2026-08-10,Blinkit,Vitamins & Supplements,94.7
+2026-08-10,Flipkart Minutes,Digestive Health,95.7
+2026-08-10,Flipkart Minutes,Oral Care,100.0
+2026-08-10,Flipkart Minutes,Vitamins & Supplements,100.0
+2026-08-10,PharmEasy,Digestive Health,100.0
+2026-08-10,PharmEasy,Nasal Care,91.7
+2026-08-10,PharmEasy,Pain Relief,94.4
+2026-08-10,PharmEasy,Vitamins & Supplements,95.0
+2026-08-10,Swiggy Instamart,Digestive Health,100.0
+2026-08-10,Swiggy Instamart,Oral Care,100.0
+2026-08-10,Swiggy Instamart,Pain Relief,94.7
+2026-08-10,Zepto,Digestive Health,93.1
+2026-08-10,Zepto,Nasal Care,100.0
+2026-08-10,Zepto,Oral Care,100.0
+2026-08-10,Zepto,Pain Relief,100.0
+2026-08-17,1mg,Digestive Health,96.2
+2026-08-17,1mg,Nasal Care,100.0
+2026-08-17,1mg,Pain Relief,91.7
+2026-08-17,1mg,Vitamins & Supplements,92.3
+2026-08-17,Amazon,Digestive Health,100.0
+2026-08-17,Amazon,Nasal Care,94.7
+2026-08-17,Amazon,Oral Care,100.0
+2026-08-17,Amazon,Pain Relief,100.0
+2026-08-17,Amazon,Vitamins & Supplements,100.0
+2026-08-17,Blinkit,Digestive Health,100.0
+2026-08-17,Blinkit,Nasal Care,100.0
+2026-08-17,Blinkit,Oral Care,100.0
+2026-08-17,Blinkit,Pain Relief,100.0
+2026-08-17,Blinkit,Vitamins & Supplements,94.7
+2026-08-17,Flipkart Minutes,Digestive Health,95.7
+2026-08-17,Flipkart Minutes,Oral Care,100.0
+2026-08-17,Flipkart Minutes,Vitamins & Supplements,100.0
+2026-08-17,PharmEasy,Digestive Health,100.0
+2026-08-17,PharmEasy,Nasal Care,100.0
+2026-08-17,PharmEasy,Pain Relief,100.0
+2026-08-17,PharmEasy,Vitamins & Supplements,100.0
+2026-08-17,Swiggy Instamart,Digestive Health,88.2
+2026-08-17,Swiggy Instamart,Oral Care,100.0
+2026-08-17,Swiggy Instamart,Pain Relief,94.7
+2026-08-17,Zepto,Digestive Health,100.0
+2026-08-17,Zepto,Nasal Care,100.0
+2026-08-17,Zepto,Oral Care,100.0
+2026-08-17,Zepto,Pain Relief,100.0
+2026-08-24,1mg,Digestive Health,96.2
+2026-08-24,1mg,Nasal Care,100.0
+2026-08-24,1mg,Pain Relief,100.0
+2026-08-24,1mg,Vitamins & Supplements,100.0
+2026-08-24,Amazon,Digestive Health,100.0
+2026-08-24,Amazon,Nasal Care,94.7
+2026-08-24,Amazon,Oral Care,100.0
+2026-08-24,Amazon,Pain Relief,100.0
+2026-08-24,Amazon,Vitamins & Supplements,100.0
+2026-08-24,Blinkit,Digestive Health,100.0
+2026-08-24,Blinkit,Nasal Care,88.2
+2026-08-24,Blinkit,Oral Care,100.0
+2026-08-24,Blinkit,Pain Relief,100.0
+2026-08-24,Blinkit,Vitamins & Supplements,100.0
+2026-08-24,Flipkart Minutes,Digestive Health,95.7
+2026-08-24,Flipkart Minutes,Oral Care,100.0
+2026-08-24,Flipkart Minutes,Vitamins & Supplements,100.0
+2026-08-24,PharmEasy,Digestive Health,100.0
+2026-08-24,PharmEasy,Nasal Care,91.7
+2026-08-24,PharmEasy,Pain Relief,94.4
+2026-08-24,PharmEasy,Vitamins & Supplements,95.0
+2026-08-24,Swiggy Instamart,Digestive Health,100.0
+2026-08-24,Swiggy Instamart,Oral Care,100.0
+2026-08-24,Swiggy Instamart,Pain Relief,100.0
+2026-08-24,Zepto,Digestive Health,96.6
+2026-08-24,Zepto,Nasal Care,100.0
+2026-08-24,Zepto,Oral Care,100.0
+2026-08-24,Zepto,Pain Relief,100.0
+2026-08-31,1mg,Digestive Health,96.2
+2026-08-31,1mg,Nasal Care,100.0
+2026-08-31,1mg,Pain Relief,100.0
+2026-08-31,1mg,Vitamins & Supplements,100.0
+2026-08-31,Amazon,Digestive Health,95.8
+2026-08-31,Amazon,Nasal Care,94.7
+2026-08-31,Amazon,Oral Care,100.0
+2026-08-31,Amazon,Pain Relief,100.0
+2026-08-31,Amazon,Vitamins & Supplements,95.0
+2026-08-31,Blinkit,Digestive Health,96.0
+2026-08-31,Blinkit,Nasal Care,100.0
+2026-08-31,Blinkit,Oral Care,100.0
+2026-08-31,Blinkit,Pain Relief,100.0
+2026-08-31,Blinkit,Vitamins & Supplements,94.7
+2026-08-31,Flipkart Minutes,Digestive Health,100.0
+2026-08-31,Flipkart Minutes,Oral Care,100.0
+2026-08-31,Flipkart Minutes,Vitamins & Supplements,96.0
+2026-08-31,PharmEasy,Digestive Health,100.0
+2026-08-31,PharmEasy,Nasal Care,91.7
+2026-08-31,PharmEasy,Pain Relief,100.0
+2026-08-31,PharmEasy,Vitamins & Supplements,100.0
+2026-08-31,Swiggy Instamart,Digestive Health,100.0
+2026-08-31,Swiggy Instamart,Oral Care,100.0
+2026-08-31,Swiggy Instamart,Pain Relief,94.7
+2026-08-31,Zepto,Digestive Health,96.6
+2026-08-31,Zepto,Nasal Care,100.0
+2026-08-31,Zepto,Oral Care,100.0
+2026-08-31,Zepto,Pain Relief,100.0
+2026-09-07,1mg,Digestive Health,96.2
+2026-09-07,1mg,Nasal Care,100.0
+2026-09-07,1mg,Pain Relief,100.0
+2026-09-07,1mg,Vitamins & Supplements,100.0
+2026-09-07,Amazon,Digestive Health,95.8
+2026-09-07,Amazon,Nasal Care,100.0
+2026-09-07,Amazon,Oral Care,100.0
+2026-09-07,Amazon,Pain Relief,100.0
+2026-09-07,Amazon,Vitamins & Supplements,100.0
+2026-09-07,Blinkit,Digestive Health,96.0
+2026-09-07,Blinkit,Nasal Care,100.0
+2026-09-07,Blinkit,Oral Care,100.0
+2026-09-07,Blinkit,Pain Relief,100.0
+2026-09-07,Blinkit,Vitamins & Supplements,94.7
+2026-09-07,Flipkart Minutes,Digestive Health,100.0
+2026-09-07,Flipkart Minutes,Oral Care,94.1
+2026-09-07,Flipkart Minutes,Vitamins & Supplements,92.0
+2026-09-07,PharmEasy,Digestive Health,92.3
+2026-09-07,PharmEasy,Nasal Care,100.0
+2026-09-07,PharmEasy,Pain Relief,100.0
+2026-09-07,PharmEasy,Vitamins & Supplements,95.0
+2026-09-07,Swiggy Instamart,Digestive Health,100.0
+2026-09-07,Swiggy Instamart,Oral Care,94.1
+2026-09-07,Swiggy Instamart,Pain Relief,100.0
+2026-09-07,Zepto,Digestive Health,96.6
+2026-09-07,Zepto,Nasal Care,100.0
+2026-09-07,Zepto,Oral Care,100.0
+2026-09-07,Zepto,Pain Relief,100.0
+2026-09-14,1mg,Digestive Health,100.0
+2026-09-14,1mg,Nasal Care,100.0
+2026-09-14,1mg,Pain Relief,95.8
+2026-09-14,1mg,Vitamins & Supplements,92.3
+2026-09-14,Amazon,Digestive Health,100.0
+2026-09-14,Amazon,Nasal Care,94.7
+2026-09-14,Amazon,Oral Care,100.0
+2026-09-14,Amazon,Pain Relief,95.5
+2026-09-14,Amazon,Vitamins & Supplements,95.0
+2026-09-14,Blinkit,Digestive Health,96.0
+2026-09-14,Blinkit,Nasal Care,94.1
+2026-09-14,Blinkit,Oral Care,100.0
+2026-09-14,Blinkit,Pain Relief,92.6
+2026-09-14,Blinkit,Vitamins & Supplements,100.0
+2026-09-14,Flipkart Minutes,Digestive Health,100.0
+2026-09-14,Flipkart Minutes,Oral Care,100.0
+2026-09-14,Flipkart Minutes,Vitamins & Supplements,100.0
+2026-09-14,PharmEasy,Digestive Health,92.3
+2026-09-14,PharmEasy,Nasal Care,91.7
+2026-09-14,PharmEasy,Pain Relief,94.4
+2026-09-14,PharmEasy,Vitamins & Supplements,90.0
+2026-09-14,Swiggy Instamart,Digestive Health,100.0
+2026-09-14,Swiggy Instamart,Oral Care,100.0
+2026-09-14,Swiggy Instamart,Pain Relief,94.7
+2026-09-14,Zepto,Digestive Health,96.6
+2026-09-14,Zepto,Nasal Care,92.3
+2026-09-14,Zepto,Oral Care,100.0
+2026-09-14,Zepto,Pain Relief,100.0
+2026-09-21,1mg,Digestive Health,96.2
+2026-09-21,1mg,Nasal Care,85.7
+2026-09-21,1mg,Pain Relief,95.8
+2026-09-21,1mg,Vitamins & Supplements,100.0
+2026-09-21,Amazon,Digestive Health,95.8
+2026-09-21,Amazon,Nasal Care,100.0
+2026-09-21,Amazon,Oral Care,100.0
+2026-09-21,Amazon,Pain Relief,95.5
+2026-09-21,Amazon,Vitamins & Supplements,95.0
+2026-09-21,Blinkit,Digestive Health,96.0
+2026-09-21,Blinkit,Nasal Care,100.0
+2026-09-21,Blinkit,Oral Care,100.0
+2026-09-21,Blinkit,Pain Relief,100.0
+2026-09-21,Blinkit,Vitamins & Supplements,100.0
+2026-09-21,Flipkart Minutes,Digestive Health,100.0
+2026-09-21,Flipkart Minutes,Oral Care,100.0
+2026-09-21,Flipkart Minutes,Vitamins & Supplements,96.0
+2026-09-21,PharmEasy,Digestive Health,96.2
+2026-09-21,PharmEasy,Nasal Care,100.0
+2026-09-21,PharmEasy,Pain Relief,100.0
+2026-09-21,PharmEasy,Vitamins & Supplements,90.0
+2026-09-21,Swiggy Instamart,Digestive Health,100.0
+2026-09-21,Swiggy Instamart,Oral Care,100.0
+2026-09-21,Swiggy Instamart,Pain Relief,100.0
+2026-09-21,Zepto,Digestive Health,100.0
+2026-09-21,Zepto,Nasal Care,100.0
+2026-09-21,Zepto,Oral Care,100.0
+2026-09-21,Zepto,Pain Relief,94.4
+2026-09-28,1mg,Digestive Health,100.0
+2026-09-28,1mg,Nasal Care,100.0
+2026-09-28,1mg,Pain Relief,100.0
+2026-09-28,1mg,Vitamins & Supplements,100.0
+2026-09-28,Amazon,Digestive Health,100.0
+2026-09-28,Amazon,Nasal Care,100.0
+2026-09-28,Amazon,Oral Care,100.0
+2026-09-28,Amazon,Pain Relief,90.9
+2026-09-28,Amazon,Vitamins & Supplements,100.0
+2026-09-28,Blinkit,Digestive Health,100.0
+2026-09-28,Blinkit,Nasal Care,100.0
+2026-09-28,Blinkit,Oral Care,100.0
+2026-09-28,Blinkit,Pain Relief,100.0
+2026-09-28,Blinkit,Vitamins & Supplements,100.0
+2026-09-28,Flipkart Minutes,Digestive Health,95.7
+2026-09-28,Flipkart Minutes,Oral Care,100.0
+2026-09-28,Flipkart Minutes,Vitamins & Supplements,96.0
+2026-09-28,PharmEasy,Digestive Health,96.2
+2026-09-28,PharmEasy,Nasal Care,91.7
+2026-09-28,PharmEasy,Pain Relief,100.0
+2026-09-28,PharmEasy,Vitamins & Supplements,100.0
+2026-09-28,Swiggy Instamart,Digestive Health,100.0
+2026-09-28,Swiggy Instamart,Oral Care,94.1
+2026-09-28,Swiggy Instamart,Pain Relief,100.0
+2026-09-28,Zepto,Digestive Health,100.0
+2026-09-28,Zepto,Nasal Care,100.0
+2026-09-28,Zepto,Oral Care,100.0
+2026-09-28,Zepto,Pain Relief,100.0
+2026-10-05,1mg,Digestive Health,100.0
+2026-10-05,1mg,Nasal Care,100.0
+2026-10-05,1mg,Pain Relief,100.0
+2026-10-05,1mg,Vitamins & Supplements,100.0
+2026-10-05,Amazon,Digestive Health,100.0
+2026-10-05,Amazon,Nasal Care,94.7
+2026-10-05,Amazon,Oral Care,100.0
+2026-10-05,Amazon,Pain Relief,100.0
+2026-10-05,Amazon,Vitamins & Supplements,100.0
+2026-10-05,Blinkit,Digestive Health,100.0
+2026-10-05,Blinkit,Nasal Care,94.1
+2026-10-05,Blinkit,Oral Care,100.0
+2026-10-05,Blinkit,Pain Relief,100.0
+2026-10-05,Blinkit,Vitamins & Supplements,100.0
+2026-10-05,Flipkart Minutes,Digestive Health,95.7
+2026-10-05,Flipkart Minutes,Oral Care,100.0
+2026-10-05,Flipkart Minutes,Vitamins & Supplements,100.0
+2026-10-05,PharmEasy,Digestive Health,100.0
+2026-10-05,PharmEasy,Nasal Care,100.0
+2026-10-05,PharmEasy,Pain Relief,100.0
+2026-10-05,PharmEasy,Vitamins & Supplements,100.0
+2026-10-05,Swiggy Instamart,Digestive Health,100.0
+2026-10-05,Swiggy Instamart,Oral Care,100.0
+2026-10-05,Swiggy Instamart,Pain Relief,100.0
+2026-10-05,Zepto,Digestive Health,100.0
+2026-10-05,Zepto,Nasal Care,92.3
+2026-10-05,Zepto,Oral Care,100.0
+2026-10-05,Zepto,Pain Relief,100.0
+2026-10-12,1mg,Digestive Health,96.2
+2026-10-12,1mg,Nasal Care,100.0
+2026-10-12,1mg,Pain Relief,100.0
+2026-10-12,1mg,Vitamins & Supplements,100.0
+2026-10-12,Amazon,Digestive Health,95.8
+2026-10-12,Amazon,Nasal Care,100.0
+2026-10-12,Amazon,Oral Care,100.0
+2026-10-12,Amazon,Pain Relief,95.5
+2026-10-12,Amazon,Vitamins & Supplements,100.0
+2026-10-12,Blinkit,Digestive Health,100.0
+2026-10-12,Blinkit,Nasal Care,100.0
+2026-10-12,Blinkit,Oral Care,88.9
+2026-10-12,Blinkit,Pain Relief,100.0
+2026-10-12,Blinkit,Vitamins & Supplements,100.0
+2026-10-12,Flipkart Minutes,Digestive Health,100.0
+2026-10-12,Flipkart Minutes,Oral Care,100.0
+2026-10-12,Flipkart Minutes,Vitamins & Supplements,100.0
+2026-10-12,PharmEasy,Digestive Health,100.0
+2026-10-12,PharmEasy,Nasal Care,100.0
+2026-10-12,PharmEasy,Pain Relief,100.0
+2026-10-12,PharmEasy,Vitamins & Supplements,100.0
+2026-10-12,Swiggy Instamart,Digestive Health,100.0
+2026-10-12,Swiggy Instamart,Oral Care,100.0
+2026-10-12,Swiggy Instamart,Pain Relief,100.0
+2026-10-12,Zepto,Digestive Health,96.6
+2026-10-12,Zepto,Nasal Care,100.0
+2026-10-12,Zepto,Oral Care,100.0
+2026-10-12,Zepto,Pain Relief,100.0
+2026-10-19,1mg,Digestive Health,96.2
+2026-10-19,1mg,Nasal Care,100.0
+2026-10-19,1mg,Pain Relief,100.0
+2026-10-19,1mg,Vitamins & Supplements,100.0
+2026-10-19,Amazon,Digestive Health,100.0
+2026-10-19,Amazon,Nasal Care,100.0
+2026-10-19,Amazon,Oral Care,100.0
+2026-10-19,Amazon,Pain Relief,100.0
+2026-10-19,Amazon,Vitamins & Supplements,100.0
+2026-10-19,Blinkit,Digestive Health,100.0
+2026-10-19,Blinkit,Nasal Care,100.0
+2026-10-19,Blinkit,Oral Care,100.0
+2026-10-19,Blinkit,Pain Relief,100.0
+2026-10-19,Blinkit,Vitamins & Supplements,100.0
+2026-10-19,Flipkart Minutes,Digestive Health,100.0
+2026-10-19,Flipkart Minutes,Oral Care,82.4
+2026-10-19,Flipkart Minutes,Vitamins & Supplements,100.0
+2026-10-19,PharmEasy,Digestive Health,100.0
+2026-10-19,PharmEasy,Nasal Care,100.0
+2026-10-19,PharmEasy,Pain Relief,88.9
+2026-10-19,PharmEasy,Vitamins & Supplements,95.0
+2026-10-19,Swiggy Instamart,Digestive Health,100.0
+2026-10-19,Swiggy Instamart,Oral Care,100.0
+2026-10-19,Swiggy Instamart,Pain Relief,100.0
+2026-10-19,Zepto,Digestive Health,100.0
+2026-10-19,Zepto,Nasal Care,100.0
+2026-10-19,Zepto,Oral Care,94.7
+2026-10-19,Zepto,Pain Relief,100.0
+2026-10-26,1mg,Digestive Health,100.0
+2026-10-26,1mg,Nasal Care,100.0
+2026-10-26,1mg,Pain Relief,100.0
+2026-10-26,1mg,Vitamins & Supplements,100.0
+2026-10-26,Amazon,Digestive Health,95.8
+2026-10-26,Amazon,Nasal Care,100.0
+2026-10-26,Amazon,Oral Care,90.0
+2026-10-26,Amazon,Pain Relief,95.5
+2026-10-26,Amazon,Vitamins & Supplements,100.0
+2026-10-26,Blinkit,Digestive Health,100.0
+2026-10-26,Blinkit,Nasal Care,100.0
+2026-10-26,Blinkit,Oral Care,88.9
+2026-10-26,Blinkit,Pain Relief,96.3
+2026-10-26,Blinkit,Vitamins & Supplements,95.8
+2026-10-26,Flipkart Minutes,Digestive Health,100.0
+2026-10-26,Flipkart Minutes,Oral Care,100.0
+2026-10-26,Flipkart Minutes,Vitamins & Supplements,100.0
+2026-10-26,PharmEasy,Digestive Health,100.0
+2026-10-26,PharmEasy,Nasal Care,91.7
+2026-10-26,PharmEasy,Pain Relief,100.0
+2026-10-26,PharmEasy,Vitamins & Supplements,95.0
+2026-10-26,Swiggy Instamart,Digestive Health,94.1
+2026-10-26,Swiggy Instamart,Oral Care,94.1
+2026-10-26,Swiggy Instamart,Pain Relief,100.0
+2026-10-26,Zepto,Digestive Health,100.0
+2026-10-26,Zepto,Nasal Care,100.0
+2026-10-26,Zepto,Oral Care,100.0
+2026-10-26,Zepto,Pain Relief,100.0

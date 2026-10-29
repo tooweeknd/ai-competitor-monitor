@@ -1,0 +1,79 @@
+type,severity,platform,city,category,brand,owner,sku,detail,focus,week
+oos_event,high,Amazon,Mumbai,Digestive Health,Eno,Haleon,DIG-ENO-LE6,"Eno Lemon 6 sachets went out of stock on Amazon, Mumbai",True,2026-10-26
+oos_event,high,Amazon,Delhi,Oral Care,Sensodyne,Haleon,ORC-SEN-FM75,"Sensodyne Fresh Mint 75g went out of stock on Amazon, Delhi",True,2026-10-26
+oos_event,high,Amazon,Delhi,Pain Relief,Crocin,Haleon,PAI-CRO-ADV20,"Crocin Advance 20 tabs went out of stock on Amazon, Delhi",True,2026-10-26
+oos_event,high,Blinkit,Gurgaon,Oral Care,Sensodyne,Haleon,ORC-SEN-RP100,"Sensodyne Repair & Protect 100g went out of stock on Blinkit, Gurgaon",True,2026-10-26
+oos_event,high,Blinkit,Delhi,Vitamins & Supplements,Centrum,Haleon,VIT-CEN-W50,"Centrum Women 50 tabs went out of stock on Blinkit, Delhi",True,2026-10-26
+oos_event,high,Swiggy Instamart,Gurgaon,Digestive Health,Eno,Haleon,DIG-ENO-LE6,"Eno Lemon 6 sachets went out of stock on Swiggy Instamart, Gurgaon",True,2026-10-26
+oos_event,high,Swiggy Instamart,Gurgaon,Oral Care,Sensodyne,Haleon,ORC-SEN-RP100,"Sensodyne Repair & Protect 100g went out of stock on Swiggy Instamart, Gurgaon",True,2026-10-26
+new_launch,high,Amazon,(multiple),Vitamins & Supplements,Centrum,Haleon,VIT-CEN-W50,New listing: Centrum Women 50 tabs appeared on Amazon,True,2026-10-26
+share_shift,high,Amazon,(all),Vitamins & Supplements,Centrum,Haleon,-,Centrum: share of assortment in Vitamins & Supplements on Amazon +19.4pp (now 44%),True,2026-10-26
+share_shift,high,Blinkit,(all),Vitamins & Supplements,Centrum,Haleon,-,Centrum: share of assortment in Vitamins & Supplements on Blinkit -14.2pp (now 54%),True,2026-10-26
+price_move,high,1mg,Bengaluru,Pain Relief,Dolo-650,Micro Labs,PAI-DOL-650T15,"Dolo-650 650mg 15 tabs: price cut -10.7% (Rs 32 -> Rs 28) on 1mg, Bengaluru",False,2026-10-26
+price_move,high,Swiggy Instamart,Gurgaon,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: price cut -13.8% (Rs 81 -> Rs 70) on Swiggy Instamart, Gurgaon",False,2026-10-26
+discount_shift,high,Swiggy Instamart,Gurgaon,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: discount depth +11.3pp (now 29%) on Swiggy Instamart, Gurgaon",False,2026-10-26
+price_move,high,Swiggy Instamart,Gurgaon,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: price cut -14.3% (Rs 81 -> Rs 69) on Swiggy Instamart, Gurgaon",False,2026-10-26
+discount_shift,high,Swiggy Instamart,Gurgaon,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: discount depth +11.7pp (now 30%) on Swiggy Instamart, Gurgaon",False,2026-10-26
+price_move,high,Swiggy Instamart,Delhi,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: price cut -13.1% (Rs 93 -> Rs 81) on Swiggy Instamart, Delhi",False,2026-10-26
+discount_shift,high,Swiggy Instamart,Delhi,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: discount depth +12.3pp (now 19%) on Swiggy Instamart, Delhi",False,2026-10-26
+price_move,high,Swiggy Instamart,Delhi,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: price cut -10.9% (Rs 89 -> Rs 80) on Swiggy Instamart, Delhi",False,2026-10-26
+price_move,high,Swiggy Instamart,Mumbai,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: price cut -12.8% (Rs 94 -> Rs 82) on Swiggy Instamart, Mumbai",False,2026-10-26
+discount_shift,high,Swiggy Instamart,Mumbai,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: discount depth +12.2pp (now 17%) on Swiggy Instamart, Mumbai",False,2026-10-26
+price_move,high,Zepto,Gurgaon,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): price cut -15.1% (Rs 144 -> Rs 122) on Zepto, Gurgaon",False,2026-10-26
+discount_shift,high,Zepto,Gurgaon,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): discount depth +11.7pp (now 34%) on Zepto, Gurgaon",False,2026-10-26
+price_move,high,Zepto,Gurgaon,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): price cut -27.6% (Rs 169 -> Rs 122) on Zepto, Gurgaon",False,2026-10-26
+discount_shift,high,Zepto,Gurgaon,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): discount depth +25.1pp (now 34%) on Zepto, Gurgaon",False,2026-10-26
+price_move,high,Zepto,Delhi,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): price cut -23.9% (Rs 160 -> Rs 122) on Zepto, Delhi",False,2026-10-26
+discount_shift,high,Zepto,Delhi,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): discount depth +20.7pp (now 34%) on Zepto, Delhi",False,2026-10-26
+price_move,high,Zepto,Mumbai,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): price cut -21.8% (Rs 156 -> Rs 122) on Zepto, Mumbai",False,2026-10-26
+discount_shift,high,Zepto,Mumbai,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): discount depth +18.4pp (now 34%) on Zepto, Mumbai",False,2026-10-26
+price_move,high,Zepto,Bengaluru,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): price cut -30.2% (Rs 175 -> Rs 122) on Zepto, Bengaluru",False,2026-10-26
+discount_shift,high,Zepto,Bengaluru,Oral Care,Colgate Total,Colgate-Palmolive,ORC-COL-TT200,"Colgate Total Total 200g (twin pack): discount depth +28.6pp (now 34%) on Zepto, Bengaluru",False,2026-10-26
+new_launch,high,Blinkit,(multiple),Vitamins & Supplements,Supradyn,Bayer,VIT-SUP-D60,New listing: Supradyn Daily 60 tabs appeared on Blinkit,False,2026-10-26
+share_shift,high,Amazon,(all),Vitamins & Supplements,HealthKart HK Vitals,HealthKart,-,HealthKart HK Vitals: share of assortment in Vitamins & Supplements on Amazon -10.4pp (now 30%),False,2026-10-26
+price_move,medium,Amazon,Delhi,Vitamins & Supplements,Centrum,Haleon,VIT-CEN-A30,"Centrum Adults 30 tabs: price increase +6.2% (Rs 459 -> Rs 488) on Amazon, Delhi",True,2026-10-26
+price_move,medium,Amazon,Delhi,Vitamins & Supplements,Centrum,Haleon,VIT-CEN-A30,"Centrum Adults 30 tabs: price increase +7.3% (Rs 428 -> Rs 459) on Amazon, Delhi",True,2026-10-26
+price_move,medium,Amazon,Mumbai,Vitamins & Supplements,Centrum,Haleon,VIT-CEN-A30,"Centrum Adults 30 tabs: price increase +10.0% (Rs 454 -> Rs 499) on Amazon, Mumbai",True,2026-10-26
+price_move,medium,Amazon,Bengaluru,Vitamins & Supplements,Centrum,Haleon,VIT-CEN-A30,"Centrum Adults 30 tabs: price increase +9.2% (Rs 382 -> Rs 417) on Amazon, Bengaluru",True,2026-10-26
+price_move,medium,Amazon,Bengaluru,Vitamins & Supplements,Centrum,Haleon,VIT-CEN-A30,"Centrum Adults 30 tabs: price increase +8.2% (Rs 388 -> Rs 420) on Amazon, Bengaluru",True,2026-10-26
+assortment_gap,medium,1mg,(all),Nasal Care,(focus portfolio),Haleon,-,No Haleon listing in Nasal Care on 1mg while competitors are listed,True,2026-10-26
+assortment_gap,medium,Zepto,(all),Nasal Care,(focus portfolio),Haleon,-,No Haleon listing in Nasal Care on Zepto while competitors are listed,True,2026-10-26
+price_move,medium,1mg,Gurgaon,Pain Relief,Dolo-650,Micro Labs,PAI-DOL-650T15,"Dolo-650 650mg 15 tabs: price cut -8.0% (Rs 32 -> Rs 29) on 1mg, Gurgaon",False,2026-10-26
+price_move,medium,1mg,Gurgaon,Pain Relief,Dolo-650,Micro Labs,PAI-DOL-650T15,"Dolo-650 650mg 15 tabs: price cut -9.5% (Rs 31 -> Rs 28) on 1mg, Gurgaon",False,2026-10-26
+price_move,medium,1mg,Delhi,Pain Relief,Dolo-650,Micro Labs,PAI-DOL-650T15,"Dolo-650 650mg 15 tabs: price cut -8.5% (Rs 32 -> Rs 29) on 1mg, Delhi",False,2026-10-26
+price_move,medium,1mg,Delhi,Pain Relief,Dolo-650,Micro Labs,PAI-DOL-650T15,"Dolo-650 650mg 15 tabs: price cut -8.5% (Rs 29 -> Rs 26) on 1mg, Delhi",False,2026-10-26
+price_move,medium,1mg,Mumbai,Pain Relief,Dolo-650,Micro Labs,PAI-DOL-650T15,"Dolo-650 650mg 15 tabs: price cut -9.4% (Rs 30 -> Rs 27) on 1mg, Mumbai",False,2026-10-26
+price_move,medium,1mg,Mumbai,Pain Relief,Dolo-650,Micro Labs,PAI-DOL-650T15,"Dolo-650 650mg 15 tabs: price cut -9.3% (Rs 27 -> Rs 24) on 1mg, Mumbai",False,2026-10-26
+oos_event,medium,Amazon,Delhi,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g went out of stock on Amazon, Delhi",False,2026-10-26
+oos_event,medium,Blinkit,Bengaluru,Pain Relief,Combiflam,Sanofi,PAI-CBF-T10,"Combiflam 10 tabs went out of stock on Blinkit, Bengaluru",False,2026-10-26
+oos_event,medium,PharmEasy,Mumbai,Nasal Care,Vicks VapoInhaler,P&G,NAS-VIC-IN1,"Vicks VapoInhaler Inhaler single went out of stock on PharmEasy, Mumbai",False,2026-10-26
+price_move,medium,PharmEasy,Gurgaon,Vitamins & Supplements,HealthKart HK Vitals,HealthKart,VIT-HKV-M60,"HealthKart HK Vitals Multivitamin 60 tabs: price cut -5.4% (Rs 621 -> Rs 588) on PharmEasy, Gurgaon",False,2026-10-26
+discount_shift,medium,PharmEasy,Gurgaon,Vitamins & Supplements,HealthKart HK Vitals,HealthKart,VIT-HKV-M60,"HealthKart HK Vitals Multivitamin 60 tabs: discount depth +5.2pp (now 9%) on PharmEasy, Gurgaon",False,2026-10-26
+oos_event,medium,PharmEasy,Delhi,Vitamins & Supplements,HealthKart HK Vitals,HealthKart,VIT-HKV-M60,"HealthKart HK Vitals Multivitamin 60 tabs went out of stock on PharmEasy, Delhi",False,2026-10-26
+discount_shift,medium,Swiggy Instamart,Delhi,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: discount depth +9.9pp (now 20%) on Swiggy Instamart, Delhi",False,2026-10-26
+share_shift,medium,Amazon,(all),Vitamins & Supplements,Supradyn,Bayer,-,Supradyn: share of assortment in Vitamins & Supplements on Amazon -9.1pp (now 26%),False,2026-10-26
+share_shift,medium,Blinkit,(all),Vitamins & Supplements,HealthKart HK Vitals,HealthKart,-,HealthKart HK Vitals: share of assortment in Vitamins & Supplements on Blinkit -6.6pp (now 25%),False,2026-10-26
+price_move,low,1mg,Bengaluru,Pain Relief,Crocin,Haleon,PAI-CRO-ADV20,"Crocin Advance 20 tabs: price increase +3.2% (Rs 38 -> Rs 39) on 1mg, Bengaluru",True,2026-10-26
+price_move,low,Amazon,Mumbai,Nasal Care,Otrivin,Haleon,NAS-OTR-AD10,"Otrivin Adult 10ml: price cut -3.4% (Rs 83 -> Rs 80) on Amazon, Mumbai",True,2026-10-26
+price_move,low,Amazon,Bengaluru,Nasal Care,Otrivin,Haleon,NAS-OTR-AD10,"Otrivin Adult 10ml: price cut -4.0% (Rs 85 -> Rs 82) on Amazon, Bengaluru",True,2026-10-26
+price_move,low,Amazon,Mumbai,Oral Care,Sensodyne,Haleon,ORC-SEN-RP100,"Sensodyne Repair & Protect 100g: price cut -4.1% (Rs 291 -> Rs 279) on Amazon, Mumbai",True,2026-10-26
+price_move,low,Amazon,Mumbai,Pain Relief,Crocin,Haleon,PAI-CRO-500T15,"Crocin 500mg 15 tabs: price cut -3.1% (Rs 49 -> Rs 47) on Amazon, Mumbai",True,2026-10-26
+price_move,low,Blinkit,Delhi,Pain Relief,Crocin,Haleon,PAI-CRO-500T15,"Crocin 500mg 15 tabs: price increase +4.2% (Rs 44 -> Rs 45) on Blinkit, Delhi",True,2026-10-26
+price_move,low,Flipkart Minutes,Gurgaon,Digestive Health,Eno,Haleon,DIG-ENO-OR30,"Eno Orange 30 sachets: price cut -4.3% (Rs 244 -> Rs 234) on Flipkart Minutes, Gurgaon",True,2026-10-26
+price_move,low,Flipkart Minutes,Delhi,Digestive Health,Eno,Haleon,DIG-ENO-OR30,"Eno Orange 30 sachets: price increase +3.1% (Rs 196 -> Rs 202) on Flipkart Minutes, Delhi",True,2026-10-26
+price_move,low,Flipkart Minutes,Delhi,Vitamins & Supplements,Centrum,Haleon,VIT-CEN-W50,"Centrum Women 50 tabs: price increase +4.0% (Rs 564 -> Rs 587) on Flipkart Minutes, Delhi",True,2026-10-26
+price_move,low,PharmEasy,Gurgaon,Digestive Health,Eno,Haleon,DIG-ENO-OR30,"Eno Orange 30 sachets: price cut -3.7% (Rs 211 -> Rs 203) on PharmEasy, Gurgaon",True,2026-10-26
+price_move,low,PharmEasy,Delhi,Nasal Care,Otrivin,Haleon,NAS-OTR-AD10,"Otrivin Adult 10ml: price cut -3.8% (Rs 95 -> Rs 91) on PharmEasy, Delhi",True,2026-10-26
+price_move,low,PharmEasy,Gurgaon,Pain Relief,Crocin,Haleon,PAI-CRO-500T15,"Crocin 500mg 15 tabs: price cut -3.6% (Rs 40 -> Rs 39) on PharmEasy, Gurgaon",True,2026-10-26
+price_move,low,PharmEasy,Delhi,Vitamins & Supplements,Centrum,Haleon,VIT-CEN-A30,"Centrum Adults 30 tabs: price increase +3.7% (Rs 403 -> Rs 418) on PharmEasy, Delhi",True,2026-10-26
+price_move,low,Swiggy Instamart,Delhi,Pain Relief,Crocin,Haleon,PAI-CRO-ADV20,"Crocin Advance 20 tabs: price cut -3.6% (Rs 41 -> Rs 40) on Swiggy Instamart, Delhi",True,2026-10-26
+price_move,low,Zepto,Mumbai,Oral Care,Sensodyne,Haleon,ORC-SEN-RP100,"Sensodyne Repair & Protect 100g: price cut -4.0% (Rs 256 -> Rs 246) on Zepto, Mumbai",True,2026-10-26
+price_move,low,Zepto,Delhi,Pain Relief,Crocin,Haleon,PAI-CRO-500T15,"Crocin 500mg 15 tabs: price increase +3.3% (Rs 39 -> Rs 40) on Zepto, Delhi",True,2026-10-26
+price_move,low,1mg,Delhi,Vitamins & Supplements,HealthKart HK Vitals,HealthKart,VIT-HKV-M60,"HealthKart HK Vitals Multivitamin 60 tabs: price cut -3.6% (Rs 546 -> Rs 527) on 1mg, Delhi",False,2026-10-26
+price_move,low,Amazon,Gurgaon,Digestive Health,Digene,Abbott,DIG-DGN-MI200,"Digene Mint liquid 200ml: price cut -4.0% (Rs 100 -> Rs 96) on Amazon, Gurgaon",False,2026-10-26
+price_move,low,Flipkart Minutes,Mumbai,Digestive Health,Gaviscon,Reckitt,DIG-GAV-AN150,"Gaviscon Aniseed liquid 150ml: price increase +4.6% (Rs 202 -> Rs 211) on Flipkart Minutes, Mumbai",False,2026-10-26
+price_move,low,PharmEasy,Gurgaon,Nasal Care,Vicks VapoInhaler,P&G,NAS-VIC-IN1,"Vicks VapoInhaler Inhaler single: price cut -3.5% (Rs 132 -> Rs 128) on PharmEasy, Gurgaon",False,2026-10-26
+price_move,low,PharmEasy,Delhi,Pain Relief,Combiflam,Sanofi,PAI-CBF-T10,"Combiflam 10 tabs: price increase +3.8% (Rs 36 -> Rs 38) on PharmEasy, Delhi",False,2026-10-26
+price_move,low,Swiggy Instamart,Gurgaon,Digestive Health,Gaviscon,Reckitt,DIG-GAV-AN150,"Gaviscon Aniseed liquid 150ml: price increase +3.3% (Rs 207 -> Rs 213) on Swiggy Instamart, Gurgaon",False,2026-10-26
+price_move,low,Zepto,Mumbai,Nasal Care,Nasivion,Merck,NAS-NSV-PE10,"Nasivion Paediatric 10ml: price cut -3.1% (Rs 75 -> Rs 73) on Zepto, Mumbai",False,2026-10-26
+price_move,low,Zepto,Delhi,Oral Care,Pepsodent,Hindustan Unilever,ORC-PEP-GC150,"Pepsodent Germicheck 150g: price increase +3.6% (Rs 76 -> Rs 78) on Zepto, Delhi",False,2026-10-26
