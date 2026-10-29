@@ -14,9 +14,9 @@ from data.catalog import FOCUS_OWNER, PLATFORMS
 ROOT = Path(__file__).resolve().parent
 PROC = ROOT / "data" / "processed"
 
-st.set_page_config(page_title="AI Competitor Monitor", page_icon="📡", layout="wide")
+st.set_page_config(page_title="AI Competitor Monitor", layout="wide")
 
-st.title("📡 AI Competitor Monitor")
+st.title("AI Competitor Monitor")
 st.caption("Personal prototype · consumer-health DCommerce · **demo data: synthetic** · "
            "agent drafts, human reviews")
 
@@ -52,8 +52,9 @@ with tab1:
     c1.metric("SKUs tracked", df["sku_id"].nunique())
     c2.metric("Platforms", df["platform"].nunique())
     c3.metric("Pin codes", df["pincode"].nunique())
-    c4.metric(FOCUS_OWNER + " availability", f"{n_focus_avail:.1f}%")
+    c4.metric(FOCUS_OWNER + " availability (demo)", f"{n_focus_avail:.1f}%")
     c5.metric("Signals this week", len(sig), delta=f"{(sig['severity'] == 'high').sum()} high", delta_color="inverse")
+    st.caption("All figures on this page are computed from synthetic demo data - not real Haleon or competitor performance.")
 
     st.subheader("Share of assortment by owner")
     soa_f = soa.merge(df[["brand", "owner"]].drop_duplicates(), on="brand")
@@ -101,12 +102,18 @@ with tab3:
     if only_focus:
         s = s[s["focus"]]
     st.dataframe(s[["severity", "type", "category", "platform", "city", "brand", "detail"]]
-                 .sort_values("severity"), use_container_width=True, height=420)
+                 .sort_values("severity"), use_container_width=True, height=420,
+                 column_config={"detail": st.column_config.TextColumn(width="medium")})
+    pick = st.selectbox("Inspect full signal", range(len(s)),
+                        format_func=lambda i: f"[{s.iloc[i]['severity']}] {s.iloc[i]['type']} - {s.iloc[i]['brand']} - {s.iloc[i]['platform']}")
+    r = s.iloc[pick]
+    st.info(f"**{r['type']}** ({r['severity']}) - {r['category']} / {r['brand']} / {r['platform']} / {r['city']}\n\n{r['detail']}")
     st.caption("Severity is rule-based (size of move; OOS on focus brands ranks high). "
                "OOS flags are debounced: a flip must hold two prior weeks to fire.")
 
 with tab4:
     st.subheader("Weekly brief - draft for review")
+    st.caption("Brief is generated from the full dataset (all categories, platforms, cities) for the latest week - sidebar filters do not change it.")
     briefs = sorted((ROOT / "briefs").glob("weekly_brief_*.md"))
     if not briefs:
         st.info("Run the pipeline to generate a brief.")
