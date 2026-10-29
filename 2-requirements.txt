@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+streamlit>=1.30
+plotly>=5.18
+openai>=1.0   # LLM agent path (OpenAI-compatible providers)
+anthropic>=0.25 # LLM agent path (Claude)
