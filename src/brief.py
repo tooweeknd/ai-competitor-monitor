@@ -82,13 +82,31 @@ def template_brief(sig: pd.DataFrame, week: str, focus_owner: str, kpis: dict) -
             nxt.append(f"- Benchmark response for {r['category']} on {r['platform']}: hold, match, or promote around {r['brand']}.")
     nxt.append("- Keep watching medium/low signals; they auto-flag again if they persist or widen.")
 
+    fa_txt = f"{kpis['focus_avail']}%" if isinstance(kpis.get('focus_avail'), (int, float)) else "n/a (no focus-brand listings in scope)"
+    if not kpis.get("skus"):
+        return f"""# Weekly Competitor Brief - week of {week}
+
+_Draft generated from detected signals. Review before circulating. Demo data: synthetic._
+
+## Snapshot
+- No data available to evaluate under the current filter scope (0 listings, 0 signals).
+
+## What happened
+- Nothing to report: the current scope contains no listings, so there is no data to evaluate. This is an empty slice, not a quiet week.
+
+## Why it might be happening (hypotheses to verify)
+- Not applicable until the scope contains data.
+
+## What next
+- Widen the category/platform/city filters or load a week that has data, then regenerate.
+"""
     return f"""# Weekly Competitor Brief - week of {week}
 
 _Draft generated from detected signals. Review before circulating. Demo data: synthetic._
 
 ## Snapshot
 - SKUs tracked: {kpis['skus']} | Platforms: {kpis['platforms']} | Locations: {kpis['locations']}
-- Avg availability ({focus_owner}): {kpis['focus_avail']}% | Signals flagged: {kpis['n_signals']} ({kpis['n_high']} high)
+- Avg availability ({focus_owner}): {fa_txt} | Signals flagged: {kpis['n_signals']} ({kpis['n_high']} high)
 
 ## What happened
 {chr(10).join(what)}
