@@ -15,7 +15,13 @@ from src.brief import make_brief
 ROOT = Path(__file__).resolve().parent.parent
 
 def run(snapshot_path: str | Path | None = None) -> dict:
-    snapshot_path = snapshot_path or (ROOT / "data" / "snapshots" / "snapshots.csv")
+    snapshot_path = Path(snapshot_path or (ROOT / "data" / "snapshots" / "snapshots.csv"))
+    if not snapshot_path.exists():
+        # Raw snapshots are gitignored (regenerable demo data). On a fresh deploy
+        # (e.g. Streamlit Cloud) regenerate them instead of crashing.
+        import runpy, sys
+        sys.path.insert(0, str(ROOT / "data"))  # generator does `from catalog import ...`
+        runpy.run_path(str(ROOT / "data" / "generate_demo_data.py"), run_name="__main__")
     df = load_snapshots(snapshot_path)
     latest = df["week"].max()
 
