@@ -144,7 +144,7 @@ with tab4:
                    "The Signals and Weekly Brief tabs show the rule-based detectors and template draft, "
                    "which are separate from this agent.")
     else:
-        st.caption("The agent chooses what to investigate, calls data tools, then drafts an evidence-linked brief. Every tool call is shown.")
+        st.caption("The agent chooses what to investigate, calls data tools, then drafts a brief whose claims cite the tool outputs behind them. Every tool call is shown.")
         if f.empty:
             st.info("No data in the current filter scope - widen the sidebar filters to run the agent.")
         elif st.button("Run investigation agent"):
