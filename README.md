@@ -38,13 +38,19 @@ their time on the "so what" and "what next".
 3. **Draft the weekly brief** (`src/brief.py`) - turns the signal table into a
    what-happened / why-it-might-be-happening / what-next brief. Two engines:
    - *template* (default): deterministic, offline, zero cost, reproducible
-   - *LLM*: set `OPENAI_API_KEY` or `ANTHROPIC_API_KEY` and the same signals
-     are summarised by a model. Nothing leaves the machine unless you
-     configure a key yourself.
-4. **Review in the dashboard** (`app.py`) - Streamlit app with four views:
+   - *LLM*: set `OPENAI_API_KEY`, `ANTHROPIC_API_KEY` or `GEMINI_API_KEY`
+     and the same signals are summarised by a model (Gemini is reached via
+     its OpenAI-compatible endpoint, so no extra SDK). Nothing leaves the
+     machine unless you configure a key yourself.
+4. **Review in the dashboard** (`app.py`) - Streamlit app with five views:
    overview KPIs and share/availability trends, price & promo cuts, the signal
-   feed (filterable, severity-ranked), and the brief with an edit-and-download
-   review step.
+   feed (filterable, severity-ranked), an **agent run** view where a
+   tool-using LLM investigates the current signal table through explicit tool
+   calls and drafts an evidence-cited brief (each claim cites the tool output
+   behind it), and the weekly brief with an edit-and-download review step.
+   A **report builder** exports the current filtered view - KPIs, charts,
+   signals and the draft brief - as a standalone HTML file, after the same
+   human review.
 
 ## Demo data
 
@@ -65,6 +71,8 @@ pip install -r requirements.txt
 python data/generate_demo_data.py   # synthetic snapshots
 python -m src.pipeline              # collect -> signals -> brief
 streamlit run app.py                # dashboard on localhost:8501
+# optional, for the agent run tab (a free AI Studio key works):
+export GEMINI_API_KEY=...
 ```
 
 ## Design choices that matter for real use
